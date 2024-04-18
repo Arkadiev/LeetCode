@@ -32,11 +32,11 @@ namespace _01.MergeStringsAlternately
 
             for (int i = 0; i < longerWord.Length; i++)
             {
-                if (word1.Length > i && word1[i] != '\"')
+                if (word1.Length > i)
                 {
                     result.Append(word1[i]);
                 }
-                if (word2.Length > i && word2[i] != '\"')
+                if (word2.Length > i)
                 {
                     result.Append(word2[i]);
                 }
