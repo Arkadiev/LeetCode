@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34601.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.MergeStringsAlternately", "01.MergeStringsAlternately\01.MergeStringsAlternately.csproj", "{34018667-217C-4937-A09A-5954A4F6CF0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.FindTheDifference", "02.FindTheDifference\02.FindTheDifference.csproj", "{E6AA0C5B-D9F2-4DF3-8D46-1CF023D5B92C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{34018667-217C-4937-A09A-5954A4F6CF0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34018667-217C-4937-A09A-5954A4F6CF0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34018667-217C-4937-A09A-5954A4F6CF0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6AA0C5B-D9F2-4DF3-8D46-1CF023D5B92C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6AA0C5B-D9F2-4DF3-8D46-1CF023D5B92C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6AA0C5B-D9F2-4DF3-8D46-1CF023D5B92C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6AA0C5B-D9F2-4DF3-8D46-1CF023D5B92C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
