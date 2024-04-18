@@ -6,6 +6,13 @@ namespace _01.MergeStringsAlternately
     {
         static void Main(string[] args)
         {
+            /*
+            You are given two strings word1 and word2.
+            Merge the strings by adding letters in alternating order, starting with word1.
+            If a string is longer than the other, append the additional letters onto the end of the merged string.
+            Return the merged string.
+            */
+
             // Input 1:
             string word1 = "abc";
             string word2 = "pqr";
