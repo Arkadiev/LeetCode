@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.FindTheDifference", "02.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.FindTheIndexOfTheFirstOccurrenceInAString", "03.FindTheIndexOfTheFirstOccurrenceInAString\03.FindTheIndexOfTheFirstOccurrenceInAString.csproj", "{5444665B-EB6F-40CC-A541-CCEDD2E6518E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ValidAnagram", "04.ValidAnagram\04.ValidAnagram.csproj", "{B8DB4C3A-0421-4AE9-BDA0-C11DE9AA9D73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5444665B-EB6F-40CC-A541-CCEDD2E6518E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5444665B-EB6F-40CC-A541-CCEDD2E6518E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5444665B-EB6F-40CC-A541-CCEDD2E6518E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8DB4C3A-0421-4AE9-BDA0-C11DE9AA9D73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8DB4C3A-0421-4AE9-BDA0-C11DE9AA9D73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8DB4C3A-0421-4AE9-BDA0-C11DE9AA9D73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8DB4C3A-0421-4AE9-BDA0-C11DE9AA9D73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -9,8 +9,8 @@
             */
 
             // Input 1:
-            //string haystack = "sadbutsad";
-            //string needle = "sad";
+            string haystack = "sadbutsad";
+            string needle = "sad";
             // Expected Output: 0
 
             // Input 2:
@@ -19,8 +19,8 @@
             // Expected Output: -1
 
             // Input 3:
-            string haystack = "mississippi";
-            string needle = "issip";
+            //string haystack = "mississippi";
+            //string needle = "issip";
             // Expected Output: 4;
 
             Console.WriteLine(StrStr(haystack, needle));
