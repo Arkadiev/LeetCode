@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34601.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.MergeStringsAlternately", "01.MergeStringsAlternately\01.MergeStringsAlternately.csproj", "{34018667-217C-4937-A09A-5954A4F6CF0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.MergeStringsAlternately", "01.MergeStringsAlternately\01.MergeStringsAlternately.csproj", "{34018667-217C-4937-A09A-5954A4F6CF0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.FindTheDifference", "02.FindTheDifference\02.FindTheDifference.csproj", "{E6AA0C5B-D9F2-4DF3-8D46-1CF023D5B92C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.FindTheDifference", "02.FindTheDifference\02.FindTheDifference.csproj", "{E6AA0C5B-D9F2-4DF3-8D46-1CF023D5B92C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.FindTheIndexOfTheFirstOccurrenceInAString", "03.FindTheIndexOfTheFirstOccurrenceInAString\03.FindTheIndexOfTheFirstOccurrenceInAString.csproj", "{5444665B-EB6F-40CC-A541-CCEDD2E6518E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{E6AA0C5B-D9F2-4DF3-8D46-1CF023D5B92C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6AA0C5B-D9F2-4DF3-8D46-1CF023D5B92C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6AA0C5B-D9F2-4DF3-8D46-1CF023D5B92C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5444665B-EB6F-40CC-A541-CCEDD2E6518E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5444665B-EB6F-40CC-A541-CCEDD2E6518E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5444665B-EB6F-40CC-A541-CCEDD2E6518E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5444665B-EB6F-40CC-A541-CCEDD2E6518E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
